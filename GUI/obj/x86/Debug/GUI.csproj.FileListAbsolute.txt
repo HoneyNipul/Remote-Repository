@@ -1,0 +1,38 @@
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe.config
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\bin\x86\Debug\WpfApp1.pdb
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\bin\x86\Debug\Translater.dll
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\bin\x86\Debug\Translater.pdb
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\MainWindow.g.cs
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\App.g.cs
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\CodePopUpWindow.baml
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\MainWindow.baml
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.g.resources
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.exe
+E:\SYR-SEM2\OOD\Project3\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.pdb
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\bin\x86\Debug\WpfApp1.exe.config
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\bin\x86\Debug\WpfApp1.exe
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\bin\x86\Debug\WpfApp1.pdb
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\bin\x86\Debug\Translater.dll
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\bin\x86\Debug\Translater.pdb
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\MainWindow.g.cs
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\App.g.cs
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\CodePopUpWindow.baml
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\MainWindow.baml
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\WpfApp1.g.resources
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\WpfApp1.exe
+E:\SYR-SEM2\OOD\Project3\BackUp\project4 backup\project4_v3\GUI\obj\x86\Debug\WpfApp1.pdb

@@ -1,0 +1,6 @@
+class time
+{
+public:
+	
+	
+};
